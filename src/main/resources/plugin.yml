@@ -1,0 +1,15 @@
+name: Kitpvp
+version: '${project.version}'
+main: de.mxchy.kitpvp.Kitpvp
+api-version: "1.20"
+authors: [ mxchy ]
+commands:
+  setarena:
+    description: this command sets the coordinates of the PvP arena
+    permission: kitpvp.setarena
+  cleararena:
+    description: this command clears the coordinates of the PvP arena
+    permission: kitpvp.cleararena
+  addkit:
+    description: adds a Kit
+    permission: kitpvp.addkit

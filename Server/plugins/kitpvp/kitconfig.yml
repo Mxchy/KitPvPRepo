@@ -1,0 +1,133 @@
+arena:
+  arena_pos1:
+    x: 543.0
+    y: 81.0
+    z: 478.0
+    world: world
+  arena_pos2:
+    x: 549.0
+    y: 84.0
+    z: 486.0
+    world: world
+kits:
+  names:
+  - lol
+  - super
+  lol:
+    name: lol
+    display:
+      v: 3465
+      type: PAPER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: '{"text":"lol"}'
+    armor:
+    - v: 3465
+      type: PAPER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: '{"text":"lol"}'
+    - v: 3465
+      type: PAPER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: '{"text":"lol"}'
+    - v: 3465
+      type: PAPER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: '{"text":"lol"}'
+    - v: 3465
+      type: PAPER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: '{"text":"lol"}'
+    inventory:
+    - v: 3465
+      type: PAPER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: '{"text":"lol"}'
+    - v: 3465
+      type: PAPER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: '{"text":"lol"}'
+    - v: 3465
+      type: PAPER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: '{"text":"lol"}'
+    - v: 3465
+      type: PAPER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: '{"text":"lol"}'
+  super:
+    name: super
+    display:
+      v: 3465
+      type: GRASS_BLOCK
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: '{"text":"super"}'
+    armor:
+    - v: 3465
+      type: GRASS_BLOCK
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: '{"text":"super"}'
+    - v: 3465
+      type: GRASS_BLOCK
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: '{"text":"super"}'
+    - v: 3465
+      type: GRASS_BLOCK
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: '{"text":"super"}'
+    - v: 3465
+      type: GRASS_BLOCK
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: '{"text":"super"}'
+    inventory:
+    - v: 3465
+      type: GRASS_BLOCK
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: '{"text":"super"}'
+    - v: 3465
+      type: GRASS_BLOCK
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: '{"text":"super"}'
+    - v: 3465
+      type: GRASS_BLOCK
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: '{"text":"super"}'
+    - v: 3465
+      type: GRASS_BLOCK
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: '{"text":"super"}'
